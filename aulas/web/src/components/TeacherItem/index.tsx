@@ -16,7 +16,7 @@ function TeacherItem() {
       </header>
 
       <p>
-        Entusiasta das melhores tecnologias de quimica avançada.
+        Entusiasta das melhores tecnologias de química avançada.
         <br/><br/>
       </p>
 

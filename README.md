@@ -18,19 +18,19 @@
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leon-carvalho/proffy?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MrWillian/next-level-week-2?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leon-carvalho/proffy">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MrWillian/next-level-week-2">
 
-   <a href="https://github.com/leon-carvalho/Ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leon-carvalho/proffy?style=social">
+   <a href="https://github.com/MrWillian/next-level-week-2/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/MrWillian/next-level-week-2?style=social">
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/layout.png" width="100%">
+  <img alt="Proffy" src=".github/layout.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -76,20 +76,40 @@ Além disto é bom ter um editor para trabalhar com o código como _VSCode_
 ## Rodando o back end (servidor)
 
 ```bash
-...em breve
+```bash
+# Clone este repositório
+$ git clone https://github.com/MrWillian/next-level-week-2.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd next-level-week-2
+
+# Vá para a pasta da aplicação Back End
+$ cd  aulas/server
+
+# Instale as dependências
+$ npm install
+# Ou use Yarn se preferir
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+# Ou use Yarn se preferir
+$ yarn start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3333
 ```
 
 ### Rodando a aplicação web (Front End)
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/proffy
+$ git clone https://github.com/MrWillian/next-level-week-2.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd proffy
+$ cd next-level-week-2
 
 # Vá para a pasta da aplicação Front End
-$ cd web
+$ cd aulas/web
 
 # Instale as dependências
 $ npm install

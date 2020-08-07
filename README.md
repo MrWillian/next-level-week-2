@@ -96,7 +96,7 @@ $ npm run start
 # Ou use Yarn se preferir
 $ yarn start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3333
+# A aplicação será aberta na porta:3333 - acesse http://localhost:3333
 ```
 
 ### Rodando a aplicação web (Front End)

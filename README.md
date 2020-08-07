@@ -38,8 +38,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [Node.js](https://nodejs.org/en/) em breve...
-- [React Native](https://facebook.github.io/react-native/) em breve...
+- [Node.js](https://nodejs.org/en/)
+- [React Native](https://facebook.github.io/react-native/)
 
 ## 💻 Projeto
 
@@ -127,7 +127,27 @@ $ yarn start
 ### Rodando a aplicação mobile
 
 ```bash
-  ...em breve
+# Clone este repositório
+$ git clone https://github.com/MrWillian/next-level-week-2.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd next-level-week-2
+
+# Vá para a pasta da aplicação Front End
+$ cd aulas/mobile
+
+# Instale as dependências
+$ npm install
+# Ou use Yarn se preferir
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+# Ou use Yarn se preferir
+$ yarn start
+
+# Assim, abrirá a página do expo, onde você precisará configurar seu emulador, e após isso, clicar em "Run application..." na sua plataforma escolhida
+
 ```
 
 ## 🤔 Como contribuir
